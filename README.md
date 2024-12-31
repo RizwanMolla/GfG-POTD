@@ -36,7 +36,7 @@ GFG-POTD/
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/GFG-POTD.git
+    git clone https://github.com/RizwanMolla/GFG-POTD.git
     ```
 2. Navigate to the desired folder for the specific problem.
 3. Open the solution file to view the implementation.
