@@ -11,8 +11,11 @@ This repository is dedicated to maintaining solutions for the daily problems fro
 ```
 GFG-POTD/
 |
-|-- Problem Statement/
+|-- Problem Statement 1/
 |   |-- solution.py
+|-- Problem Statement 2/
+|   |-- solution.py
+|-- README.md
 ```
 
 - **Problem Statement**: Folder for the specific problem of the day, containing the solution file.
@@ -24,8 +27,8 @@ GFG-POTD/
 
 - **Daily Updates**: The repository will be updated with solutions every day.
 - **Optimized Solutions**: Focus on time and space complexity.
-- **Language Support**: Solutions in Python.
-- **Detailed Problem Descriptions**: Each solution file includes a the explanation of the code and approach used.
+- **Language Support**:  Python-based solutions.
+- **Detailed Problem Descriptions**:  Explanations for the code and approach.
 
 ---
 
