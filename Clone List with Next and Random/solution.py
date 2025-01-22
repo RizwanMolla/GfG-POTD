@@ -9,26 +9,26 @@ class Solution:
         if not head:
             return None
 
-        curr = head
-        while curr:
-            newNode = Node(curr.data)
-            newNode.next = curr.next
-            curr.next = newNode
-            curr = newNode.next
+        current = head
+        while current:
+            newNode = Node(current.data)
+            newNode.next = current.next
+            current.next = newNode
+            current = newNode.next
 
-        curr = head
-        while curr:
-            if curr.random:
-                curr.next.random = curr.random.next
-            curr = curr.next.next
+        current = head
+        while current:
+            if current.random:
+                current.next.random = current.random.next
+            current = current.next.next
 
         dummy = Node(0)
         copy = dummy
-        curr = head
-        while curr:
-            copy.next = curr.next
-            curr.next = curr.next.next
-            curr = curr.next
+        current = head
+        while current:
+            copy.next = current.next
+            current.next = current.next.next
+            current = current.next
             copy = copy.next
 
         return dummy.next

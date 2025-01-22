@@ -1,3 +1,15 @@
+struct Node {
+    int data;
+    Node *next;
+    Node *random;
+
+    Node(int x) {
+        data = x;
+        next = 0;
+        random = 0;
+    }
+};
+
 class Solution {
   public:
     Node *cloneLinkedList(Node *head) {
