@@ -71,7 +71,7 @@ This is a personal repository; however, suggestions and improvements are always 
 
 ## 🏆 Achievements
 
-- **Monthly Completion Streak**: Successfully completed POTDs for [2024 : October, November, December. 2025 : January, February, March].
+- **Monthly Completion Streak**: Successfully completed POTDs for [2024 : October, November, December. 2025 : January, February, March, April].
 
 ---
 
